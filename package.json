@@ -1,0 +1,5 @@
+{
+  "name": "douyu-hot-repeat",
+  "private": true,
+  "scripts": { "test": "node --test", "check": "node --check douyu-repeat.user.js" }
+}

@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Local previews, browser profiles, screenshots, and scratch files
+/work/
+
+# Generated reports and build artifacts
+/coverage/
+/.nyc_output/
+/dist/
+/test-results/
+/playwright-report/
+*.tsbuildinfo
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and operating system files
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local design tooling state
+/.superdesign/
