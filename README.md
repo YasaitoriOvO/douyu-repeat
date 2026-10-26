@@ -2,7 +2,7 @@
 
 这是一个复读烂梗脚本。
 
-![Greasy Fork Version](https://img.shields.io/greasyfork/v/602295)(https://greasyfork.org/zh-CN/scripts/602295-%E7%83%82%E6%A2%97%E5%A4%8D%E8%AF%BB%E5%99%A8)
+[![Greasy Fork Version](https://img.shields.io/greasyfork/v/602295)](https://greasyfork.org/zh-CN/scripts/602295-%E7%83%82%E6%A2%97%E5%A4%8D%E8%AF%BB%E5%99%A8)
 
 
 ## 安装使用
